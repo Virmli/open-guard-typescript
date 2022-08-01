@@ -1,0 +1,22 @@
+# package directories
+node_modules
+
+# Files generated from running type-check
+/lib
+
+# Other
+.cache
+tslint-to-eslint-config.log
+.cache-loader/
+
+# Generated test reports
+test-reports/
+coverage/
+
+# MacOS
+.DS_Store
+.idea
+
+# Output
+build
+
